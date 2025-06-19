@@ -1,14 +1,14 @@
 # 🌱 EcoTerreiro  
 
-**Olá! Bem-vindos ao EcoTerreiron um guia prático ambiental para Terreiros, um projeto desenvolvido como parte do meu trabalho de extensão na faculdade de Análise e Desenvolvimento de Sistemas, com o objetivo de promover a integração de práticas sustentáveis nos Terreiro  de Umbanda.** ♻️
+**Olá! Bem-vindos ao EcoTerreiro um guia prático ambiental para Terreiros, um projeto desenvolvido como parte do meu projeto de extensão na faculdade de Análise e Desenvolvimento de Sistemas, com o objetivo de promover a integração de práticas sustentáveis nos Terreiro de Umbanda.** ♻️
 
 ## 🚀 Sobre o Projeto
-Inspirado pela profunda conexão da Umbanda com a natureza e pela crescente necessidade de ações em prol do meio ambiente, este guia busca oferecer informações práticas e acessíveis para que dirigentes, membros e frequentadores de Terreiro  possam implementar soluções ecológicas em seu dia a dia. Acreditamos que os Terreiro , como importantes centros comunitários, têm um papel fundamental na disseminação da consciência ambiental e na construção de um futuro mais sustentável.
+Inspirado pela profunda conexão da Umbanda com a natureza e pela crescente necessidade de ações em prol do meio ambiente, este guia busca oferecer informações práticas e acessíveis para que dirigentes, membros e frequentadores de Terreiro  possam implementar soluções ecológicas em seu dia a dia. Acredito que os Terreiros, como importantes centros comunitários, têm um papel fundamental na disseminação da consciência ambiental e na construção de um futuro mais sustentável.
 
-Neste guia, você encontrará orientações sobre temas como captação de água da chuva, coleta seletiva, energia solar, criação de jardins de ervas medicinais, e muito mais. Nosso objetivo é fornecer um recurso prático e inspirador, que auxilie os Terreiro  a trilharem um caminho de harmonia com a natureza, em consonância com os seus próprios valores espirituais.
+Neste guia, você encontrará orientações sobre temas como captação de água da chuva, coleta seletiva, energia solar, criação de jardins de ervas medicinais, e muito mais. Meu objetivo é fornecer um recurso prático e inspirador, que auxilie os Terreiro a trilharem um caminho de harmonia com a natureza, em consonância com os seus próprios valores espirituais.
 
 
-**Observação importante:** Esse guia foi realizado citando Terreiros de Umbanda, porém não só pode como deve ser abordado as práticas nela citadas em qualquer Terreiro de matriz africana e indígena, como qualquer outra pessoa/ONG/empresa pois a <ins>finalidade</ins> é promover a **consciência ambiental**.  
+**Observação importante:** Esse guia foi realizado citando Terreiros de Umbanda, porém não só pode como deve ser abordado as práticas nela citadas em qualquer Terreiro de matriz africana e indígena, como qualquer outra pessoa/ONG/empresa com ou sem vínculo religioso, pois a <ins>finalidade</ins> é promover a **consciência ambiental**.  
 
 
 ## 🔧 Sobre o Site
