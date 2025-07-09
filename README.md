@@ -30,7 +30,14 @@ Ao clicar nas fotos, as mesmas são amppliadas, depois é só voltar para o site
 * Engajamento e contrução de comunidade, no qual o cadastro pode fazer com que os terreiros se sintam parte de uma rede ou movimento maior em prol da sustentabilidade na Umbanda;
 * Avaliação da efetividade do guia.
 
- 🔨 *O Banco de dados ainda será criado!*
+ ## 🔨 Back-end
+ Para realizar o Back-end do formulário *"Seu Terreiro"* eu utilizei a linguagem de programação Java, Framework Spring Boot, Banco de dados MySQL e plataforma Open Source Docker.
+
+Adicionei o `docker-compose.yml` que é um arquivo de configuração YAML que define e gerencia múltiplos contêineres Docker como um único serviço. Em vez de iniciar cada contêiner individualmente com comandos `docker run` complexos, o docker-compose nos permite declarar todos os serviços, redes e volumes necessários para nossa aplicação em um único arquivo.
+
+ Inseri a pasta *init_db* com o arquivo `schema.sql` é um arquivo que contém comandos SQL (Structured Query Language) para definir a estrutura do banco de dados da tabela terreiros conforme meu modelo lógico (pasta *modelos_db*).
+
+_________________________________________
 
 
 ### Espero que gostem e fiquem a vontade de se comunicarem comigo e trazer novas ideias e novos projetos!

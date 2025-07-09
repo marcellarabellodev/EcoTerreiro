@@ -1,0 +1,18 @@
+services:
+  db: # Nome do serviço do seu banco de dados
+    image: mysql:8.0 # Imagem oficial do MySQL, versão 8.0
+    container_name: ecoterreiro_mysql_db # Nome para o meu contêiner MySQL
+    restart: always # O contêiner sempre será reiniciado se parar
+    environment: # Variáveis de ambiente para configurar o MySQL
+      MYSQL_ROOT_PASSWORD: admin # Senha do usuário 'root' 
+      MYSQL_DATABASE: ecoterreiro_db # Nome do banco de dados que será criado automaticamente
+      MYSQL_USER: ecouser # Usuário que sua aplicação usará para conectar
+      MYSQL_PASSWORD: ecopassword # Senha para o usuário da aplicação 
+    ports:
+      - "3306:3306" # Mapeia a porta 3306 do host para a porta 3306 do contêiner
+    volumes:
+      - db_data:/var/lib/mysql # Persistência dos dados do banco de dados (crucial!)
+      - ./init_db:/docker-entrypoint-initdb.d # Onde colocaremos o script de criação da tabela
+
+volumes: # Define o volume para persistência de dados
+  db_data:
